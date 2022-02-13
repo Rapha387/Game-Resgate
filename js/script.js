@@ -331,6 +331,7 @@ function start(){
       $("#inimigo1").remove();
       $("#inimigo2").remove();
       $("#amigo").remove();
+      $("#energia").remove();
       
       $("#fundoGame").append("<div id='fim'></div>");
       
